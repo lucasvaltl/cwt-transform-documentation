@@ -6,9 +6,9 @@ This is the documentation describing how to use the script to convert trust subm
 
 In order to run the script, you will need to install additional software on your machine. In total, the dependencies are:
 
- * Jupyter Notebook
- * Python 3
- * pandas 0.20
+* Jupyter Notebook
+* Python 3
+* pandas 0.20
 
  The easiest way to install all of these dependecies is by simply installing the anaconda data science package, which includes all of the above. It can be found under this [link](https://www.anaconda.com/download/)
  
