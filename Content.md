@@ -38,7 +38,7 @@ In order to get the data into the Hololens app, you only need to save the export
 
 The output is described as follows:
 
-| month                                            | Categorical | Month of occurrence                                                                                  |
+| month                                            | Type | Month of occurrence                                                                                  |
 |--------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------|
 | shared_breach                                    | Boolean     | 1: if a shared treatment and breached, 0 if shared treatment but not breached                        |
 | urgent\_value_2ww                                 | Float       | Length of urgent 2 week wait time                                                                    |
